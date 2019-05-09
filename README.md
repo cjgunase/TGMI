@@ -1,5 +1,5 @@
 # TGMI
-[![DOI](https://img.shields.io/badge/DOI-10.1093%2Fbioinformatics%2Fbtw354-lightgrey.svg?style=flat-square)](https://doi.org/10.1093/nar/gky210)
+[![DOI](https://img.shields.io/badge/DOI-10.1093%2Fnar%2Fgky210-yellowgreen.svg?style=flat-square)](https://doi.org/10.1093/nar/gky210)
 ## Instructions for running Triple Gene Mutual Interaction Algorithm (TGMI)
 
 1. TGMI need an extensive computing resource, we recommend running TGMI under a multi-core server environment. In order to run BWERF, please install following R packages. 
